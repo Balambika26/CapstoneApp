@@ -1,0 +1,9 @@
+jbr\springmvc\controller\LoginServlet.class
+jbr\springmvc\dao\UserDaoImplementation.class
+jbr\springmvc\controller\RegistrationServlet.class
+jbr\springmvc\dao\UserMapper.class
+jbr\springmvc\model\Login.class
+jbr\springmvc\service\UserServiceImpl.class
+jbr\springmvc\dao\UserDao.class
+jbr\springmvc\service\UserService.class
+jbr\springmvc\model\User.class
